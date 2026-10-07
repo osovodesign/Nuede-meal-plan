@@ -1,0 +1,6 @@
+{
+  "name": "Nuede - Meal Plan & Delivery Platform",
+  "description": "Centralized meal plan ordering, customer management, and delivery platform for Nuede.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
